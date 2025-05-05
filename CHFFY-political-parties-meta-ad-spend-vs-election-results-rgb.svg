@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="exportSvg" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 600 1051">
+  <!-- Generator: Adobe Illustrator 29.4.0, SVG Export Plug-In . SVG Version: 2.1.0 Build 152)  -->
+  <defs>
+    <style>
+      .st0, .st1 {
+        fill: none;
+      }
+
+      .st2, .st3, .st4, .st5, .st6, .st7, .st8, .st9, .st10, .st11 {
+        isolation: isolate;
+      }
+
+      .st2, .st3, .st5, .st12, .st9 {
+        font-family: Arial-BoldMT, Arial;
+        font-weight: 700;
+      }
+
+      .st2, .st5, .st9, .st10, .st13, .st11 {
+        fill: #181818;
+      }
+
+      .st2, .st6, .st7, .st14, .st10 {
+        font-size: 12px;
+      }
+
+      .st3 {
+        font-size: 23px;
+      }
+
+      .st4 {
+        fill: #888;
+      }
+
+      .st4, .st6, .st7, .st8, .st10, .st15 {
+        font-family: ArialMT, Arial;
+      }
+
+      .st5, .st16 {
+        font-size: 14px;
+      }
+
+      .st6, .st8, .st17 {
+        fill: #333;
+      }
+
+      .st1 {
+        stroke: #d8d8d8;
+        stroke-dasharray: 1 1;
+      }
+
+      .st18 {
+        fill: #b7eaea;
+      }
+
+      .st19 {
+        font-size: 10px;
+      }
+
+      .st20 {
+        fill: #f59148;
+        opacity: .3;
+      }
+
+      .st21 {
+        font-size: 24.98px;
+      }
+
+      .st22 {
+        fill: #fff;
+      }
+
+      .st23 {
+        fill: #18a1cd;
+      }
+
+      .st12 {
+        letter-spacing: 0em;
+      }
+
+      .st9, .st11 {
+        font-size: 14.63px;
+      }
+
+      .st24 {
+        fill: #ffe59c;
+      }
+
+      .st25 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="st0" width="600" height="1051"/>
+    </clipPath>
+    <path id="path" d="M1,801.73h598"/>
+  </defs>
+  <rect class="st22" width="600" height="1051"/>
+  <g class="st25">
+    <text class="st3" transform="translate(0 22)"><tspan x="0" y="0">Political Parties: Meta Ad Spend vs. Election Results</tspan></text>
+    <text class="st5" transform="translate(1 47)"><tspan x="0" y="0">National Coalition Party</tspan></text>
+    <rect class="st24" x="1" y="53.39" width="567.75" height="27"/>
+    <rect class="st18" x="1" y="80.39" width="140.39" height="27"/>
+    <rect class="st23" x="1" y="107.39" width=".02" height="27"/>
+    <line class="st1" x1="1" y1="139.39" x2="599" y2="139.39"/>
+    <text class="st5" transform="translate(1 157.39)"><tspan x="0" y="0">The Finns Party</tspan></text>
+    <rect class="st24" x="1" y="163.78" width="197.94" height="27"/>
+    <rect class="st18" x="1" y="190.78" width="50" height="27"/>
+    <rect class="st23" x="1" y="217.78" width=".02" height="27"/>
+    <line class="st1" x1="1" y1="249.78" x2="599" y2="249.78"/>
+    <text class="st5" transform="translate(1 267.78)"><tspan x="0" y="0">The Social Democratic Party of Finland</tspan></text>
+    <rect class="st24" x="1" y="274.17" width="598" height="27"/>
+    <rect class="st18" x="1" y="301.17" width="63.09" height="27"/>
+    <rect class="st23" x="1" y="328.17" width=".02" height="27"/>
+    <line class="st1" x1="1" y1="360.17" x2="599" y2="360.17"/>
+    <text class="st5" transform="translate(1 378.17)"><tspan x="0" y="0">The Centre Party of Finland</tspan></text>
+    <rect class="st24" x="1" y="384.56" width="425.25" height="27"/>
+    <rect class="st18" x="1" y="411.56" width="62.14" height="27"/>
+    <rect class="st23" x="1" y="438.56" width=".02" height="27"/>
+    <line class="st1" x1="1" y1="470.56" x2="599" y2="470.56"/>
+    <text class="st5" transform="translate(1 488.56)"><tspan x="0" y="0">The Green League</tspan></text>
+    <rect class="st24" x="1" y="494.95" width="272.52" height="27"/>
+    <rect class="st18" x="1" y="521.95" width="76.92" height="27"/>
+    <rect class="st23" x="1" y="548.95" width=".02" height="27"/>
+    <line class="st1" x1="1" y1="580.95" x2="599" y2="580.95"/>
+    <text class="st5" transform="translate(1 598.95)"><tspan x="0" y="0">The Left Alliance</tspan></text>
+    <rect class="st24" x="1" y="605.34" width="240.17" height="27"/>
+    <rect class="st18" x="1" y="632.34" width="53.58" height="27"/>
+    <rect class="st23" x="1" y="659.34" width=".02" height="27"/>
+    <line class="st1" x1="1" y1="691.34" x2="599" y2="691.34"/>
+    <text class="st2" transform="translate(1 709.34)"><tspan x="0" y="0">The Swedish People&apos;s Party of Finland</tspan></text>
+    <rect class="st24" x="1" y="715.73" width="121.08" height="27"/>
+    <rect class="st18" x="1" y="742.73" width="20.16" height="27"/>
+    <rect class="st23" x="1" y="769.73" width=".02" height="27"/>
+    <text></text>
+    <text class="st2" transform="translate(1 819.73)"><tspan x="0" y="0">The Christian Democrats</tspan></text>
+    <rect class="st24" x="1" y="826.12" width="92.67" height="27"/>
+    <rect class="st18" x="1" y="853.12" width="19.44" height="27"/>
+    <rect class="st23" x="1" y="880.12" width=".02" height="27"/>
+    <line class="st1" x1="1" y1="912.12" x2="599" y2="912.12"/>
+    <text class="st2" transform="translate(1 930.12)"><tspan x="0" y="0">Movement Now</tspan></text>
+    <rect class="st24" x="1" y="936.52" width="11.25" height="27"/>
+    <rect class="st18" x="1" y="963.52" width="2.83" height="27"/>
+    <rect class="st23" x="1" y="990.52" width=".02" height="27"/>
+    <text class="st8" transform="translate(6 71.39)"><tspan class="st14" x="0" y="0">529,542</tspan><tspan class="st19" x="43.38" y="0" xml:space="preserve"> votes in the municipal elections </tspan></text>
+    <text class="st8" transform="translate(6 98.39)"><tspan class="st14" x="0" y="0">130,943 </tspan><tspan class="st19" x="46.71" y="0">euros spent on the Meta ads</tspan></text>
+    <text class="st11" transform="translate(122.58 125.13) scale(.86 1)"><tspan class="st15" x="0" y="0">This meas</tspan><tspan class="st12" x="67.5" y="0" xml:space="preserve"> 0.25 euros per vote.</tspan></text>
+    <text class="st6" transform="translate(6 181.78)"><tspan x="0" y="0">184,616 votes</tspan></text>
+    <text class="st6" transform="translate(6 208.78)"><tspan x="0" y="0">46,623 €</tspan></text>
+    <text class="st6" transform="translate(6 292.17)"><tspan x="0" y="0">557,768 votes</tspan></text>
+    <text class="st6" transform="translate(6 319.17)"><tspan x="0" y="0">58,838 €</tspan></text>
+    <text class="st6" transform="translate(7 402.56)"><tspan x="0" y="0">396,630 votes</tspan></text>
+    <text class="st6" transform="translate(6 429.56)"><tspan x="0" y="0">57,957 €</tspan></text>
+    <text/>
+    <text class="st6" transform="translate(6 512.95)"><tspan x="0" y="0">254,172 votes</tspan></text>
+    <text class="st6" transform="translate(6 539.95)"><tspan x="0" y="0">71,739 €</tspan></text>
+    <text class="st6" transform="translate(6 623.34)"><tspan x="0" y="0">224,005 votes</tspan></text>
+    <text class="st6" transform="translate(6 650.34)"><tspan x="0" y="0">49,968 €</tspan></text>
+    <text class="st6" transform="translate(6 733.73)"><tspan x="0" y="0">112,922 votes</tspan></text>
+    <text class="st7" transform="translate(13.46 760.73)"><tspan class="st13" x="0" y="0">18,792 </tspan><tspan class="st17" x="40.04" y="0">€</tspan></text>
+    <text class="st6" transform="translate(6 844.12)"><tspan x="0" y="0">86,428 votes</tspan></text>
+    <text class="st7" transform="translate(14.75 871.12)"><tspan class="st13" x="0" y="0">18,116 </tspan><tspan class="st17" x="40.04" y="0">€</tspan></text>
+    <text class="st10" transform="translate(7.5 954.52)"><tspan x="0" y="0">10,481 votes</tspan></text>
+    <text class="st7" transform="translate(1.85 981.52)"><tspan class="st13" x="0" y="0">2,637 </tspan><tspan class="st17" x="33.36" y="0">€</tspan></text>
+    <text class="st4" transform="translate(4.14 1037.2) scale(1.19 1)"><tspan class="st16"><tspan x="0" y="0">Created by Rosa Kettumaki. Data: Meta Ad Library and Statistics Finland</tspan></tspan><tspan class="st21"><tspan x="0" y="29.98">Da</tspan></tspan></text>
+    <rect class="st20" x="115.38" y="108.66" width="198.57" height="25.03"/>
+    <rect class="st20" x="65.33" y="213.58" width="124.8" height="26.18"/>
+    <rect class="st20" x="87.48" y="320.1" width="44.08" height="23.94"/>
+    <rect class="st20" x="73.3" y="438.38" width="48.38" height="23.25"/>
+    <rect class="st20" x="83.43" y="548.55" width="47.29" height="21.69"/>
+    <rect class="st20" x="74.64" y="638.48" width="47.94" height="26.21"/>
+    <rect class="st20" x="30.88" y="774.78" width="41.72" height="18.79"/>
+    <rect class="st20" x="35.65" y="879.74" width="50.12" height="27"/>
+    <rect class="st20" x="50.21" y="978.46" width="48.11" height="22.2"/>
+    <text/>
+    <text class="st9" transform="translate(69.26 232.32) scale(.86 1)"><tspan x="0" y="0">0.25 euros per vote.</tspan></text>
+    <text/>
+    <text class="st9" transform="translate(92.52 337.54) scale(.86 1)"><tspan x="0" y="0">0,11 €</tspan></text>
+    <text class="st9" transform="translate(81.27 455.62) scale(.86 1)"><tspan x="0" y="0">0,15 €</tspan></text>
+    <text class="st9" transform="translate(90.84 562.88) scale(.86 1)"><tspan x="0" y="0">0,28 €</tspan></text>
+    <text class="st9" transform="translate(80.74 654.56) scale(.86 1)"><tspan x="0" y="0">0,22 €</tspan></text>
+    <text class="st9" transform="translate(34.48 788.42) scale(.86 1)"><tspan x="0" y="0">0,17 €</tspan></text>
+    <text class="st9" transform="translate(42.17 898.12) scale(.86 1)"><tspan x="0" y="0">0,21 €</tspan></text>
+    <text class="st9" transform="translate(51.74 995.92) scale(.86 1)"><tspan x="0" y="0">0,25 €</tspan></text>
+    <text/>
+    <text/>
+    <text/>
+  </g>
+</svg>
